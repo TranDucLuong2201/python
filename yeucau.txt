@@ -1,0 +1,22 @@
+2. Phạm vi phân tích:
+
+- Phân tích mô tả: Hiểu các xu hướng cơ bản trong FDI qua các năm.
+- Phân tích xu hướng: Xác định xu hướng và những thay đổi trong dòng chảy FDI.
+- Phân tích nguồn gốc: Phân tích các quốc gia đầu tư chính vào Việt Nam.
+- Phân tích ngành: Xác định các ngành thu hút nhiều FDI nhất.
+- Phân tích tác động (nếu có dữ liệu): Đánh giá tác động kinh tế của FDI đối với nền kinh tế Việt Nam.
+- Dự báo (tùy chọn): Dự đoán các xu hướng trong tương lai của dòng chảy FDI dựa trên dữ liệu lịch sử.
+
+3. Kế hoạch thực hiện dự án:
+
+- Làm sạch dữ liệu: Làm sạch dữ liệu để xử lý các giá trị thiếu, ngoại lệ và các mục nhập không chính xác.
+- Chuyển đổi dữ liệu: Chuyển đổi dữ liệu thành các tổng hợp hữu ích cho việc phân tích, chẳng hạn như tổng đầu tư hàng năm, đầu tư theo ngành, v.v.
+- Trực quan hóa: Tạo các biểu đồ có ý nghĩa để thể hiện rõ ràng kết quả phân tích dữ liệu.
+- Tạo ra những thông tin chuyên sâu: Tạo ra các thông tin chuyên sâu từ dữ liệu để hiểu rõ tác động và xu hướng của FDI.
+- Báo cáo: Chuẩn bị một báo cáo hoặc bài trình bày toàn diện mô tả chi tiết các phát hiện và phương pháp được sử dụng.
+
+4. Kết quả đầu ra:
+
+- Trực quan hóa: Các biểu đồ và đồ thị minh họa xu hướng FDI, đầu tư theo quốc gia, phân bổ ngành, v.v.
+- Báo cáo/Bài trình bày cuối cùng: Một tài liệu chi tiết hoặc bài trình bày bằng slide tóm tắt phân tích, các thông tin chuyên sâu và phương pháp được sử dụng.
+- Kho mã nguồn: Mã nguồn được ghi chú rõ ràng, được lưu trữ trên một nền tảng như GitHub/Gdrive/Onedrive...
